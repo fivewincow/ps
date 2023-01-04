@@ -2,5 +2,5 @@
 .idea
 
 .imi
-
+.DS_Store
 out/
