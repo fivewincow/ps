@@ -16,9 +16,4 @@ public class Lessons120924 {
             return answer;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(solution(new int[]{2, 4, 8}));
-    }
-
 }
