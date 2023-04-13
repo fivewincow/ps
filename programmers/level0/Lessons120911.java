@@ -1,3 +1,5 @@
+package level0;
+
 import java.util.Arrays;
 
 // https://school.programmers.co.kr/learn/courses/30/lessons/120911

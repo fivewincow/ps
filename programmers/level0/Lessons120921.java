@@ -1,3 +1,5 @@
+package level0;
+
 // 문자열 밀기
 // https://school.programmers.co.kr/learn/courses/30/lessons/120921
 public class Lessons120921 {

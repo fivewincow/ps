@@ -1,3 +1,5 @@
+package level0;
+
 // https://school.programmers.co.kr/learn/courses/30/lessons/120910
 // 세균 증식
 public class Lessons120910 {
